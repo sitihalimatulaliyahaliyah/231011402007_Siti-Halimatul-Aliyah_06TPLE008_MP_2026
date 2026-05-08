@@ -34,7 +34,7 @@ Untuk meningkatkan kenyamanan baca, aplikasi menggunakan:
 Implementasi kode menggunakan **Data Driven UI**, di mana informasi 3 kursus berbeda disimpan dalam sebuah List dan ditampilkan menggunakan `ListView.builder`.
 
 ### Fitur Utama Kode:
-* **3 Kursus Berbeda**: Menampilkan 'Creative Workshop: Flutter', 'Web Development: Html,Css,Jsgit', dan 'Data Science: Python'.
+* **3 Kursus Berbeda**: Menampilkan 'Creative Workshop: Flutter', 'Web Development: Html,Css,Js', dan 'Data Science: Python'.
 * **Tema Warna**: Dominasi warna **Pink** (AppBar & Button) dan **Amber/Kuning** (Icon & Background).
 * **Modern Syntax**: Menggunakan `.withValues(alpha: 0.2)` untuk menangani bayangan, menggantikan metode lama yang sudah *deprecated*.
 
